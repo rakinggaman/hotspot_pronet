@@ -1,8 +1,5 @@
-# Ramadhan | Mikmoni Template Login Hotspot
+# Ramadhan |  Template Login Hotspot
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/renomureza/mikmoni-hotspot-template/master/ramadhan.png" />
-</p>
 
 Template login hotspot RouterOS ini dirancang untuk pelanggan mikmoni, meskipun demikian pengguna umum juga bisa menggunakan template ini, namun mungkin perlu beberapa penyesuaian.
 
