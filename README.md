@@ -1,4 +1,4 @@
-# Ramadhan |  Template Login Hotspot
+# PRONET |  Template Login Hotspot
 
 
 Template login hotspot RouterOS ini dirancang untuk pelanggan mikmoni, meskipun demikian pengguna umum juga bisa menggunakan template ini, namun mungkin perlu beberapa penyesuaian.
